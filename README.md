@@ -1,4 +1,4 @@
-# RaspberryMatic_Authentification
+# RaspberryMatic_Authentification - Proof of Concept
 
 1. Put "auth.conf" to /etc/config/lighttpd/auth.conf
 2. Put ".lighttpdpassword" to /etc/config/lighttpd/.lighttpdpassword
